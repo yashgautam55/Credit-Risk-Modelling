@@ -4,7 +4,7 @@
 
 This project focuses on building a machine learning model to predict the credit risk of loan applicants. The objective is to classify whether a customer is likely to be a **good credit risk or bad credit risk** based on financial and demographic attributes.
 
-Financial institutions can use this type of model to **reduce loan defaults and make better lending decisions**.
+
 
 ---
 
